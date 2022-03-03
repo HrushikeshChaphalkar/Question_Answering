@@ -1,8 +1,8 @@
 # Question_Answering
-Diploma project based on answering questions using Deep learning.
-Scope of the project: Use Deep Learning to answer questions.
-**Dataset**: http://jmcauley.ucsd.edu/data/amazon/qa/
-**App link**: In progress
+Diploma project based on answering questions using Deep learning.<br>
+Scope of the project: Use Deep Learning to answer questions.<br>
+**Dataset**: http://jmcauley.ucsd.edu/data/amazon/qa/ <br>
+**App link**: In progress <br>
 
 Directory structure:
 ```
