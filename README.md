@@ -6,7 +6,7 @@ Scope of the project: Use Deep Learning to answer questions.
 
 Directory structure:
 ```
-sqli_detection
+Question_Answering
 ├── streamlit_app.py     Main file to run the streamlit app_
 |── prediction_module.py Prediction module with all the utility functions
 ├── requirements.txt     Dependencies
@@ -23,7 +23,7 @@ sqli_detection
 ## How to run in local
 Clone the repo using git clone:
 ```
-git clone https://github.com/mayurkagathara/sqli_detection  
+git clone https://github.com/HrushikeshChaphalkar/Question_Answering  
 ```
 Install dependencies using pip:  
 ```
