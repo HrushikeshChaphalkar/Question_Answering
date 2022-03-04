@@ -14,7 +14,7 @@ st.header("Enter Question")
 # Create a form for getting the input										
 with st.form("Question Answer"):											
 		question = st.text_input("Enter Question here")
-        answer = st.text_input("Enter Answer here")
+        #answer = st.text_input("Enter Answer here")
     		# Create a text input with name "Enter SQL query here"
 		#if st.form_submit_button("Submit"):							# if the user clicks the submit button
 			#isSQLi = predict_class(query)									# Call the predict_class function and store the result in isSQLi
